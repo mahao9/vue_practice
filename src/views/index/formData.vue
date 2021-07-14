@@ -228,6 +228,7 @@ export default {
         // TODO 提交表单
         const copyObj = {};
         // 生成唯一编码
+        //测试修改文件
         if (this.title === "新增个人信息") {
           function createRandomId() {
             return (
